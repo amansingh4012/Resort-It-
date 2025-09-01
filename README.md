@@ -95,9 +95,9 @@ _All dependencies and versions are based on package.json._
 
 1. **Clone repository:**
 
- - git clone <your-repo-url>
- - cd Resort-it
- - npm install
+   - git clone <your-repo-url>
+   - cd Resort-it
+   - npm install
 
 
 2. **Firebase Configuration:**
@@ -109,9 +109,8 @@ _All dependencies and versions are based on package.json._
 
 3. **Start development server:**
 
-  - npm start
-
-  - Open your browser at `http://localhost:3000`
+   - npm start
+   - Open your browser at `http://localhost:3000`
 
 ---
 
