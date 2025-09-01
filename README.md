@@ -95,7 +95,7 @@ _All dependencies and versions are based on package.json._
 
 1. **Clone repository:**
 
-   - git clone <your-repo-url>
+   - git clone https://github.com/amansingh4012/Resort-It-
    - cd Resort-it
    - npm install
 
